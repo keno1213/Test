@@ -16,7 +16,7 @@ import java.util.Random;
 
 /**
  * Created by wang_gp on 2016/12/26.
- * 从下向上的气泡
+ * 从下向上的气泡  测试项目
  */
 
 public class BubleLayout extends View {
